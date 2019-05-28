@@ -132,6 +132,7 @@ Required | Name            | Slot type | Prompt
 - Prompts:  (one prompt)  `Sorry, but I didn't understand that.  Would you try again, please?`
 - Maximum number of retries:  `2`
 - Hang-up phrase:  (one phrase) `Sorry, I could not understand.  Goodbye.`
+- save
 
 ## 6. Test
 
